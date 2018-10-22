@@ -1,0 +1,201 @@
+
+/* colors
+black #3B3B3B
+
+*/
+/* Global *//* Global *//* Global *//* Global *//* Global *//* Global */
+* {
+    /* font-family: 'Abril Fatface', cursive; */
+    font-family: 'Lobster', cursive;
+    color: #3B3B3B
+}
+
+p {
+    font-family: 'Economica', sans-serif;
+}
+
+html,body {
+    width: 100vw;
+    overflow-x: hidden;
+    font-family: 'Abril Fatface', cursive;
+}
+
+section {
+    padding: 2%;
+}
+/* Global *//* Global *//* Global *//* Global *//* Global *//* Global *//* Global *//* Global */
+
+/* nav *//* nav *//* nav *//* nav *//* nav *//* nav *//* nav *//* nav *//* nav *//* nav *//* nav */
+
+nav {
+    padding: 0 !important;
+    font-size: 100%;
+}
+
+nav a {
+    padding: 5%;
+}
+
+.navbar-brand:hover {
+    color: #f1f1f1;
+
+}
+
+.navbar a:hover {
+    color: #f8f9fa !important;
+    /* text-shadow: 0px 1px 2px black, 1px 1px 1px black; */
+    background-color: #3b8686;
+}
+
+/* nav *//* nav *//* nav *//* nav *//* nav *//* nav *//* nav *//* nav *//* nav *//* nav *//* nav */
+
+/* about me *//* about me *//* about me *//* about me *//* about me *//* about me *//* about me */
+#aboutMe{
+    text-align: center;
+    padding: 4%;
+    background-color: #3b8686;
+    /* background-image: url("portrait.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 80vh; */
+    /* background-position: 50%; */
+    text-shadow: 0px 1px 2px black, 1px 1px 1px black;
+    display: flex;
+    }
+#aboutMe h2,#aboutMe p {
+    color: #f1f1f1;
+    }
+#aboutMe h2{
+    padding: 2%;
+    font-size: 7vh;
+    }
+#aboutMe p {
+    position: relative;
+    font-size: 4vh;
+    }
+#aboutMe img {
+    width: 100%;
+    padding: 2%;
+    box-shadow: 3px 3px 10px black;
+    height: 100%;
+}
+
+#infos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.portrait {
+    display: flex;
+}
+
+
+    
+/* about me *//* about me *//* about me *//* about me *//* about me *//* about me *//* about me */
+
+#outils{
+    background-color: #f8f9fa;
+    /* color: #f8f9fa; */
+    text-shadow: 0px 1px 0px black, 1px 1px 0px black;
+    padding: 2% 4%;
+}
+
+#outils h3 {
+    font-size: 6vh;
+    text-align: center;
+}
+
+#outils p {
+    /* color: #f8f9fa; */
+    text-shadow: 0px 1px 0px black, 1px 1px 0px black;
+    font-size: 4vh;
+}
+/* Formation *//* Formation *//* Formation *//* Formation *//* Formation *//* Formation */
+#formation {
+    padding: 2% 4%;
+    /* text-shadow: 0px 1px 0px black, 1px 1px 0px black; */
+    font-size: 7vh;
+    background-color: #f8f9fa;
+}
+#formation h2{
+    padding: 3% 0;
+    /* text-shadow: 0px 1px 0px black, 1px 1px 0px black; */
+    font-size: 6vh;
+    text-align: center;
+    text-shadow: 0px 1px 0px black, 1px 1px 0px black;
+}
+
+#formation h5, #formation h3 {
+    /* text-shadow: 0px 1px 0px black, 1px 1px 0px black; */
+    font-size: 4vh;
+    text-shadow: 0px 1px 0px black, 1px 1px 0px black;
+    padding: 1%;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+#formation p{
+    /* text-shadow: 0px 1px 0px black, 1px 1px 0px black; */
+    font-size: 2.5vh;
+    text-shadow: 0px 1px 0px black, 1px 1px 0px black;
+    padding: 0 1%;
+}
+/* Formation *//* Formation *//* Formation *//* Formation *//* Formation *//* Formation */
+
+/* experience *//* experience *//* experience *//* experience *//* experience *//* experience */
+
+#exp {
+    color: #f8f9fa;
+    /* text-shadow: 0px 1px 2px black, 1px 1px 1px black; */
+    background-color: #3b8686;
+    padding: 2% 4%;
+}
+
+#exp h2 {
+    text-align: center;
+    padding: 2%;
+    font-size: 350%;
+}
+
+#exp p {
+    color: #f8f9fa;
+    /* text-shadow: 1px 1px 3px black, 1px 1px 3px black; */
+}
+
+/* experience *//* experience *//* experience *//* experience *//* experience *//* experience */
+
+/* Portfolio *//* Portfolio *//* Portfolio *//* Portfolio *//* Portfolio *//* Portfolio */
+#portfolio {
+    background-color: #f8f9fa;
+    text-shadow: 0px 1px 0px black, 1px 1px 0px black;
+}
+
+#portfolio h2 {
+    padding: 5%;
+    font-size: 10vh;
+    text-shadow: 0px 1px 0px black, 1px 1px 0px black;
+}
+
+#portfolio img {
+    /* height: 30vh; */
+}
+.cards {
+    padding: 2%;
+}
+
+.cardsBody {
+    box-shadow: 1px 1px 5px black;
+    /* width: 100%; */
+}
+
+/* .buttonLink1 {
+    position: relative;
+    bottom: 2%;
+    left: 30%
+}
+.buttonLink2 {
+    position: relative;
+    bottom: 2%;
+    left: 39%
+} */
+/* Portfolio *//* Portfolio *//* Portfolio *//* Portfolio *//* Portfolio *//* Portfolio */
