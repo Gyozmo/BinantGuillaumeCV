@@ -188,7 +188,8 @@ height: 100%
 
 #formation a{
     color: #3b8686;
-    text-decoration: underline
+    text-decoration: underline;
+    font-family: 'Sawarabi Mincho', sans-serif;
 
 }
 
@@ -211,7 +212,7 @@ height: 100%
     /* text-shadow: 0px 1px 0px black, 1px 1px 0px black; */
     font-size: 2.5vh;
     text-shadow: 0px 1px 0px black, 1px 1px 0px black;
-    font-size: 50%;
+    font-size: 40%;
     padding: 0 1%;
 }
 /* Formation *//* Formation *//* Formation *//* Formation *//* Formation *//* Formation */
@@ -233,6 +234,10 @@ height: 100%
 
 #exp h5 {
     font-size: 200%;
+}
+
+#exp h3 {
+    font-size: 270%;
 }
 
 #exp p {
