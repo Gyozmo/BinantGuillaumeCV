@@ -12,6 +12,7 @@ black #3B3B3B
 
 p {
     font-family: 'Economica', sans-serif;
+    font-size: 150%;
 }
 
 html,body {
@@ -159,11 +160,11 @@ height: 100%
 #outils p , #outilsTitle{
     /* color: #f8f9fa; */
     text-shadow: 0px 1px 0px black, 1px 1px 0px black;
-    font-size: 120%;
+    font-size: 150%;
 }
 #outils h1{
     font-family: 'Sawarabi Mincho', sans-serif;
-    font-size: 120%;
+    font-size: 150%;
 }
 
 #outils h3 {
@@ -210,6 +211,7 @@ height: 100%
     /* text-shadow: 0px 1px 0px black, 1px 1px 0px black; */
     font-size: 2.5vh;
     text-shadow: 0px 1px 0px black, 1px 1px 0px black;
+    font-size: 50%;
     padding: 0 1%;
 }
 /* Formation *//* Formation *//* Formation *//* Formation *//* Formation *//* Formation */
@@ -227,6 +229,10 @@ height: 100%
     text-align: center;
     padding: 2%;
     font-size: 350%;
+}
+
+#exp h5 {
+    font-size: 200%;
 }
 
 #exp p {
